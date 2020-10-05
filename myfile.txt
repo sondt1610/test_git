@@ -1,1 +1,2 @@
 This is common master
+Merge issue 2
