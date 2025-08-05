@@ -1,5 +1,6 @@
 <template>
   <AuthLayout>
+    <div class="">hello</div>
     <FilterMaintenanceModal
       v-model="isOpenSearchModal"
       :activeFilter="activeFilter"
